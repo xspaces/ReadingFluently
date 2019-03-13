@@ -18,6 +18,10 @@ Day|Title|Status
 10|Why do India and Pakistan keep fighting over Kashmir?|✔
 11|Vaccine could virtually eliminate cervical cancer: study|✔
 12|Young children should be taught in their mother tongue,not in English|✔
+13|Doctors knock out sheep to discover anesthesia's dark side|✔
+14|Going TikTok--Indians get hooked on Chinese video app ahead of election|✔
+15|In tech race with China,US universities may lose a vital edge|✔
+16|London HIV patient's remission spurs hope for curing AIDS|✔
 more...|
 
 ***
@@ -277,3 +281,64 @@ more...|
 * inhale v. 吸入，吸气
 * preclinical adj. 临床前的；潜伏期的
 * neuroscientist n. 神经科学家
+
+`passage 14`
+
+* get hooked on 迷上，着迷
+* sparse adj. 人烟稀少的
+* sway v. 摇晃
+* lip-sync v. 对口型，对嘴
+* single-handedly adv. 独力地，单独地
+* trounce v. 轻松战胜；大胜；击溃
+* grip v. 强烈地影响
+* elite n.精英
+* trivial adj. 琐碎的；无价值的，不重要
+* a fair share of 相当大的一部分
+* chief n. 主席，领袖；主管
+* medium n. 媒介
+* reach out to sb. 关心并愿意倾听
+* run-up n. (重大事件的)前导期，预备期
+
+`passage 15`
+
+* edge n. 优势，优越之处
+* out in front 遥遥领先
+* percolate v. 扩散，流传；渗透
+* look over one's shoulder(s) 焦虑不安
+* catch up 赶上，达到同样的质量
+* patent n. 专利
+* top v. 为...之首，超过
+* groom v. 使（某人）做好准备，训练
+* incubator n. 孵化器
+* pie-in-the-sky adj. 希望渺茫的
+* game-changer n. 打破格局者
+* grant n. 政府拨款，补助金
+* stagnant adj. 停滞不前的
+* in real terms 按实质计算
+* sit one's laurels 不思进取
+
+`passage 16`
+
+* remission n. 缓解，暂时康复
+* spur v. 促进；激励
+* stem cell n. 干细胞
+* reinvigorate v. 恢复元气
+* infection n. 感染
+* afflict v. 折磨，使痛苦
+* hematopoietic stem cells 造血干细胞
+* donor n. 捐赠人
+* bone marrow transplantation 骨髓移植
+* eliminate v. 消除，根除
+* residual adj. 剩余的，残留的
+* rebound v. 弹回，跳回
+* viable adj. 切实可行的
+* large-scale adj. 大规模的
+* antiretroviral adj. 抗逆转录病毒的
+* vaccine n. 疫苗
+* halt v. 停止，停下
+* reader n. (英国大学的)准教授
+* honorary adj. 荣誉的，名誉的
+* physician n. 医生；内科医生
+* prompt adj. 迅速的，及时的
+* diagnosis n. 诊断
+* life-long adj. 终生的
