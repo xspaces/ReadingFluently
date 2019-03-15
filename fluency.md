@@ -22,6 +22,8 @@ Day|Title|Status
 14|Going TikTok--Indians get hooked on Chinese video app ahead of election|✔
 15|In tech race with China,US universities may lose a vital edge|✔
 16|London HIV patient's remission spurs hope for curing AIDS|✔
+17|Singapore set to raise retirement ages as seniors stay healthier|✔
+18|Weekend' catch-up sleep'  is a lie|✔
 more...|
 
 ***
@@ -342,3 +344,40 @@ more...|
 * prompt adj. 迅速的，及时的
 * diagnosis n. 诊断
 * life-long adj. 终生的
+
+`passage 17`
+
+* be set to do sth. 准备做某事
+* retirement n. 退休；退职；退役
+* senior n. 年纪大的人
+* re-employment n. 重新聘用，返聘
+* sustained adj. 持续的，持久的
+* manpower n. 人力，劳动力
+* comprise v. 包含，包括
+* labor union 工会
+* private sector 私营部门
+* city-state n. 城邦；城市国家
+* reach a consensus on sth. 对...达成共识
+* scope n. 范围
+* cope with 应付，处理
+* pace v. 确定...的速度；调整...的节奏
+* grapple v. 扭打，搏斗
+* aging adj. 衰老的
+* vibrant adj. 活跃的，精力充沛的
+* enterprise n. 企业发展，企业经营
+
+`passage 18`
+
+* catch-up n. 补做；赶做
+* skimp v.  节俭，节约
+* marathon adj. 马拉松式的
+* sobering adj. 令人警醒的
+* sleep in 睡懒觉
+* metabolic adj. 代谢的，新陈代谢的
+* diabetes n. 糖尿病
+* plunge into 经历，陷入
+* right adv. 立即，立刻
+* sleep-deprived adj. 睡眠不足的
+* oversee v. 监督；管理
+* prioritize v. 确定优先次序
+
