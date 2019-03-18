@@ -1,0 +1,302 @@
+# ***英语词缀补全计划 （完全取自《字源大挪移》)***
+
+## 写在前面的话（估计也很难有其他人看见了*—*）
+
+***
+
+现在开始把背单词纳入计划之中。已经在‘不背单词’背一个月单词了，但感觉效果不是很好，容易忘记，而且也报了一个‘流利阅读’,基本每天都会有生词的输入，但就是记忆效果不佳，因此，才会有此项计划的诞生。学习英语单词最有效的方法就是寻找到词的本源，故每天都输入一点词根，词缀，那绝对会迅速扩展自己的词汇量而且，可以更加轻松的记忆单词。嗯，再解释下把计划同步到GitHub上的初衷--激励自己每天都要学习！（因为我的自制力不是想象的那么强）。
+
+>温馨小贴士：《字源大挪移》作者是璇元佑老先生，他的另一神作《语法俱乐部》也是经典。虽未谋面，但我很敬佩老先生，在此，姑且自称他的记名弟子了。还有如果有看见这份计划的伙伴，请为我做个见证，如果也想学习英语，那也可以一起勉励！
+
+***
+
+## Part One 字首
+
+### 表[否定]
+
+* group1
+
+`a-= without 没有 后接母音时作an- ` 
+atypical  非典型的  
+
+`anti-=against 反对 后接母音时作ant-`
+anti-American 反美的
+
+`contra-=against 反对 或contro-,counter-`
+contrary 相反的
+* group2
+
+`dis=not,apart 不，分开 后接f时作dif-`
+dishonest 不诚实的
+
+`in-=not 不 后接双唇音m,b,p时作im-,后接r时作ir-,后接l时作il-`
+indirect 不直接的
+
+`un-=not 不`
+unhappy 不快乐的
+
+### 表[方位]
+
+* group1
+
+`ante-=before 前 或作anti-`
+antecedent 先行词
+
+`pre-=before 前`
+prevent 防止
+
+* group2
+
+`ad-=to,toward 凡是a开头，后面重复两子音，大抵都是它的变化`
+advance 前进
+
+`ob-=toward,against 向前，反对 或作obs-,oc-,of-,op-`
+oppose 反对
+
+`pro-=forward,for 向前，支持`
+progress 进步
+
+* group3
+
+`post-=after 后`
+postpone 延期
+
+`re-=back,again 后，向后，再 若拼为retro-解释为backward`
+return 回来
+
+* group4
+
+`epi-=upon 在...之上`
+epidemic 流行性的
+
+`super-=over 超越 或作sur-`
+supermarket 超市
+
+`sub-=under 下 背后接的子音同化时作suc-，suf-，sup-，sus-`
+suburb 市郊
+
+* group5
+
+`ambi-,amphi-=around,both 周围，双`
+ambition 野心
+
+`e-,ec-,ef-,ex-=out 外围，外面` 
+exit 出口
+
+`peri-=around,near 周围，附近`
+period 时期
+
+### 表[程度]
+
+* group1
+
+`macro-=great 大` 
+macrocosm 大宇宙
+
+`micro-=tiny 小` 
+microscope 显微镜
+
+* group2
+
+`multi-=many 多`
+multiply 乘，繁殖
+
+`poly-=many 多`
+polysyllabic 多音节的
+
+`omni-=all 全`
+omnipresent 无处不在的
+
+### 表[状态，现象]
+
+* group1
+
+`bel-,bene-,bon-=good,beautiful 好，美丽`
+bonus 红利
+
+`eu-=good 好`
+euphony 悦耳的声音
+
+* group2
+
+`mal-=bad 坏`
+maladjusted 适应不良的
+
+`mis-=wrong 错误`
+mistake 错误
+
+* group3
+
+`ab-,abs-=away 分离`
+absent 缺席的
+
+`de-=away,down,not 分离，住下，不`
+departure 离开
+
+`se-=apart 分离`
+select 选择
+
+`tele-=far 远`
+telephone 电话
+
+* group4
+
+`con-=together,intensifier 共同，加强语气  后接双唇音时作com-，接母音时作co-,接l,r时分别作col-,cor-`
+contain 包含
+
+`syn-=together,same 共同，相同  后接双唇音作sym-，当字根时作simil或simul`
+synthesis 综合
+
+* group5
+
+`dia-=through 穿过`
+dialogue 对话
+
+`per-=through,thoroughly 穿过，彻底`
+permit 允许
+
+`trans-=across 穿过`
+transform 转变
+
+### 表[数字]
+
+* group1
+
+`demi-,semi-,hemi-=half 半`
+semiconductor 半导体
+
+`mono-=one 一 后接母音时作mon-`
+monotonous 单调的
+
+`sol-=alone 单一`
+solo 单人演出
+
+`uni-=one 一`
+uniform 制服
+
+* group2
+
+`bi-=two 二`
+bicycle 自行车
+
+`di-,dicho-=two 二`
+dilemma 两难
+
+`du-=two 二 duo-为其变形`
+double 双倍
+
+* group3
+
+`tri-=three 三`
+triple 三倍
+
+`quadr-=four 四 亦作quart-`
+quarter 四分之一
+
+`pent-=five 五`
+pentangle 五角形
+
+`quinqu-=five 五 或作quint-`
+quinquennial 每五年的
+
+* group4
+
+`deca-=ten 十 或作 deci-=tenth 十分之一`
+decade 十年
+
+`cent-=hundred 百 或作centi-=hundred,hundredth 百，百分之一`
+century 世纪
+
+`kilo-=thousand 千`
+kilogram 千克，公斤
+
+`mill-=thousand 千 或作 milli-=thousandth 千分之一`
+million 百万
+
+
+***
+
+## Part Two 字根
+
+### 表[否定]
+
+* group1
+`neg=none 否定`
+negative 否定的
+
+### 表[方位]
+
+* group1
+
+`loc=place 地方`
+location 地点
+
+* group2
+
+`medi,mid=middle 中间`
+immediately  立即
+
+`centr=center 中央`
+central 中心的
+
+`circum,cycl=around,circle 外围，圆`
+bicycle 自行车
+
+### 表[程度]
+
+* group1
+
+`magn,maj,maxi=great 大`
+magnify 放大
+
+`mini,minu=tiny 小`
+miniskirt 迷你裙
+
+
+### 表[状态]
+
+* group1
+
+`plen,plet=full,fill 满，填满`
+plenty 多
+
+`sat,satis,satur=full,fill 满，填满`
+satisfied 满意的
+
+* group2
+
+`vac,van=empty 空`
+vacation 假期
+
+`nihil,nul=none 无`
+nihilism 虚无主义
+
+`brev,bridg=short 短`
+bridge 桥
+
+* group3
+
+`hum=wet,low,ground 潮湿，低，地`
+humble 谦卑的
+
+`temp=heat,season,time 热度，季节 ，时间`
+temperature 温度
+
+* group4
+
+`ver=true 真实`
+very 真正的
+
+`rect=right 正，直`
+correct 改正
+
+* group5
+
+`val,vail=strong,worth 强，价值`
+value 价值
+
+`forc,fort=strong 强`
+comfortable 舒适的
+
+`liber,liver=free,balance 自由，衡量`
+liberty 自由
