@@ -300,3 +300,22 @@ comfortable 舒适的
 
 `liber,liver=free,balance 自由，衡量`
 liberty 自由
+
+* group6
+
+`arch=first,chief,ancient 第一，最初，首要，古老`
+architect 建筑师
+
+`pri,prim,prin=first 第一，最初`
+prince 王子
+
+`optim=best 最佳`
+optimism 乐观主义
+
+* group7
+
+`neo,nov=new 新式`
+novel  小说，新奇的
+
+`paleo=old 古老`
+paleolithic 旧石器时代的
