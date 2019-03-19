@@ -24,6 +24,10 @@ Day|Title|Status
 16|London HIV patient's remission spurs hope for curing AIDS|✔
 17|Singapore set to raise retirement ages as seniors stay healthier|✔
 18|Weekend' catch-up sleep'  is a lie|✔
+19|Feel better now?The rise and rise of the anxiety economy|✔
+20|School lessons to cover sexting,FGM and mental health|✔
+21|Can baijiu,China's sorghum firewater,go global?|✔
+22|U.S. accuses rich parents of college entry fraud|✔
 more...|
 
 ***
@@ -381,3 +385,82 @@ more...|
 * oversee v. 监督；管理
 * prioritize v. 确定优先次序
 
+`passage 19`
+
+* launch v. 发射；上市，推出
+* disorder n. 失调；疾病；异常
+* domestic adj. 家用的，国内的
+* squishy n. 捏捏乐
+* fidget n. 小动作
+* spinner n. 旋转器
+* triangle n. 三角形物
+* stress-relief adj. 解压的
+* meditation n. 冥想
+* thriving adj. 茁壮成长的
+* offshoot n. 分支；衍生品
+* orient v. 针对，围绕；以...为目标
+* span v. 跨越，横跨
+* yogurt n. 乳酸，酸奶
+* commodify v. 商品化
+* saturated adj. 湿透的；浸透的
+* trade on sth. 利用
+* fake adj. 假的，伪造的
+* vulnerable adj. 脆弱的
+* ethical adj. 道德的；伦理的
+* efficacy n. 疗效；功效
+
+`passage20`
+
+* sexting n. 性短信或调情短信
+* unveil v. 推出，颁布
+* guideline n. 指导方针，指南
+* spot v. 发现，注意到
+* genital adj. 外部生殖器的
+* mutilation n. 使残缺不全，伤残
+* support network 援助系统
+* abuse n. 虐待
+* grooming n. 诱奸儿童
+* domestic abuse  家暴
+* backlash n. 强烈反对
+* mandatory adj. 强制的；法定的
+* MP n. 议会议员
+* petition n. 请愿书
+* retain v. 保有，保留
+* opt(sb.)out 选择退出
+* grave adj. 严重的，深切的
+* implication n. 可能的影响；暗示
+
+`passage 21`
+
+* sorghum n. 高粱
+* firewater n. 烈酒
+* spirit n. 精神，心灵；烈酒
+* by dint of 凭借，通过
+* obscure adj. 默默无闻的，鲜为人知的
+* gut-rot n. 廉价劣质酒；伤胃酒
+* spiky adj. 有尖刺的
+* make inroads 取得进展；产生效果；开拓市场
+* distiller n. 烈酒生产者
+* step up 增加强度
+* ubiquitous adj. 普遍存在的
+* storied adj. 有名的
+* hold one's own （与...)同样成功
+* tipple n. 常喝的酒
+
+`passage22`
+
+* fraud n. 欺诈罪
+* lay bare 揭露，是公开
+* elaborate adj. 详尽的；精心计划的
+* prosecutor n. 检察官
+* brazen adj. 厚颜无耻的
+* well-heeled adj. 有钱的
+* indictment n. 控告，起诉
+* breadth n. 宽度；广度，广泛性
+* audacity n. 大胆，放肆
+* sprawling adj. 杂乱无序展开的
+* doctor v. 篡改；伪造
+* wrongdoing n. 不法行为
+* prime mover n. 主谋，主要规划人
+* attorney n. 律师
+* buy(one's) way in/into(sth.) 买通
