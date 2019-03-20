@@ -319,3 +319,31 @@ novel  小说，新奇的
 
 `paleo=old 古老`
 paleolithic 旧石器时代的
+
+
+### 表[现象]
+
+* group1
+
+`cad,cas,cid=fall,befall 落下，发生，降临`
+accident 意外
+
+`fin=end,limit 结束，界限`
+finish 完成
+
+`term=end,limit 结束，界限`
+determine 决定
+
+* group2
+
+`dur=last,hard 持续，强硬`
+during 在...期间
+
+`flu=flow 流动`
+flood 洪水
+
+`und=flow,overflow 流动，泛滥`
+abundant 大量的
+
+`mob,mot=move 移动`
+motor 马达
