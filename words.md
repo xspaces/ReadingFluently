@@ -347,3 +347,30 @@ abundant 大量的
 
 `mob,mot=move 移动`
 motor 马达
+
+* group3
+
+`vers,vert=turn,change 转变`
+conversation 会话
+
+`vari=change 变化`
+various 各种的
+
+* group4
+
+`flect,flex=bend 弯曲`
+reflect 反射
+
+`tort=twist 扭曲`
+torture 折磨，用刑
+
+`ple,plic=fold 折叠，重叠`
+complicated 复杂的
+
+`clin,cliv=lean,slope 倾斜`
+decline 下降
+
+* group5
+
+`erg,org,urg=work 作用`
+energy 能量
