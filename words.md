@@ -374,3 +374,24 @@ decline 下降
 
 `erg,org,urg=work 作用`
 energy 能量
+
+### 表[身体]
+
+* group1
+
+`corp,corpor=body 身`
+corpse 尸体
+
+
+### 表[姿势]
+
+* group2
+
+`sist,sta(t),stit=stand,set up,be 站，立，存在`
+station 车站
+
+`sed,sess,set,sid,sit=sit 坐`
+upset 沮丧的
+
+`cub,cumb=lie 躺`
+succumb 屈服；死亡
