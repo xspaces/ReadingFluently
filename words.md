@@ -385,7 +385,7 @@ corpse 尸体
 
 ### 表[姿势]
 
-* group2
+* group1
 
 `sist,sta(t),stit=stand,set up,be 站，立，存在`
 station 车站
@@ -395,3 +395,21 @@ upset 沮丧的
 
 `cub,cumb=lie 躺`
 succumb 屈服；死亡
+
+### 表[心，心理活动]
+
+* group1
+
+`card,cor,cord,cour=heart 心`
+courage 勇气
+
+`ment=mind 心智`
+mental 心理的，精神的
+
+* group2
+
+`mem(or),mne=remember 记忆`
+memory 记忆，回忆
+
+`cogn,gnos=know 认知`
+recongize 承认
