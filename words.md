@@ -413,3 +413,21 @@ memory 记忆，回忆
 
 `cogn,gnos=know 认知`
 recongize 承认
+
+* group3
+
+`cred=believe 相信`
+credit 信用
+
+`fed,fid=faith 信心`
+confidence 信心
+
+`cert=sure 确信`
+certain 确信的
+
+### 表[行为动作]
+
+* group1
+
+`pon,pos,pound=place 放置`
+position 位置
