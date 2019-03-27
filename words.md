@@ -431,3 +431,22 @@ certain 确信的
 
 `pon,pos,pound=place 放置`
 position 位置
+
+* group2
+
+`fact,fect,fic=do,make 做，制造`
+factory 工厂
+
+`sign=mark 做记号`
+sign 符号
+
+`stig,stim,stinct,sting=mark,prick 做记号，刺`
+sting 刺
+
+* group3
+
+`gram,graph=write 书写`
+photograph 相片
+
+`scrib,script=write 书写`
+descript 描写
