@@ -450,3 +450,19 @@ photograph 相片
 
 `scrib,script=write 书写`
 descript 描写
+
+* group4
+
+`meter=measure 测量`
+centimeter 公分
+
+`pend,pens,pond=hang,weigh,pay 悬挂，衡量，支出`
+depend 依靠
+
+* group5
+
+`ambul=walk 走`
+ambulance 救护车
+
+`cur=run 跑 或作cour,cor`
+course 课程
