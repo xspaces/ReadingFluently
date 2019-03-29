@@ -466,3 +466,22 @@ ambulance 救护车
 
 `cur=run 跑 或作cour,cor`
 course 课程
+
+* group6
+
+`nour,nur,nutri=feed 喂`
+nurse 护士
+
+`vor,vour=swallow 吞食`
+devour 吞食
+
+`gest=carry 输送`
+suggest 建议
+
+* group7
+
+`duc,duct=lead 领导`
+introduce 介绍
+
+`secut,sequ,su(e)=follow 跟随`
+second 第二的
