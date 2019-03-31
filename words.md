@@ -485,3 +485,26 @@ introduce 介绍
 
 `secut,sequ,su(e)=follow 跟随`
 second 第二的
+
+* group8
+
+`pel,puls=push 推，驱使`
+compel 强迫
+
+`tract=pull 拉，引`
+attract 吸引
+
+* group9
+
+`ven,vent=come 来`
+invent 发明
+
+`it=go 去，进行`
+exit 出去
+
+`ced(e),ceed,cess=go 去，行进`
+process 过程
+
+`grad,gress=step 步伐，步调`
+gradually 逐渐
+
