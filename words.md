@@ -508,3 +508,21 @@ process 过程
 `grad,gress=step 步伐，步调`
 gradually 逐渐
 
+* group10
+
+`cis,sect=cut 分割`
+decisive 决定性的
+
+`cide=kill 杀`
+suicide 自杀
+
+`junct=join 接合`
+conjunction 连接词
+
+* group11
+
+`serv=keep 持有，保持`
+observe 观察
+
+`tain,ten,tin=hold 持有，保持`
+contain 含有
