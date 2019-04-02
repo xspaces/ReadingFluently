@@ -526,3 +526,19 @@ observe 观察
 
 `tain,ten,tin=hold 持有，保持`
 contain 含有
+
+* group12
+
+`fer=carry,bear 携带，传送，怀有，承受`
+different 不同的
+
+`port=carry 携带，传送`
+support 支持
+
+* group13
+
+`ject=throw 投掷`
+project 计划
+
+`miss,mit=send 发送`
+mission 任务
