@@ -542,3 +542,19 @@ project 计划
 
 `miss,mit=send 发送`
 mission 任务
+
+* group14
+
+`opt=choose 选择`
+adopt 采用，领养
+
+`lect,leg,lex,lig=choose,read 选择，读`
+select 挑选
+
+* group15
+
+`que,qui=ask,seek 询问，寻找`
+question 问题
+
+`capt,cept,cip=take,seize 拿取`
+accept 接受
