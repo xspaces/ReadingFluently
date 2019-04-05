@@ -558,3 +558,55 @@ question 问题
 
 `capt,cept,cip=take,seize 拿取`
 accept 接受
+
+* group16
+
+`solu,solv=loosen 放松`
+solve 解决
+
+`strain,stress,strict,string=tighten,tight 拉紧，紧`
+straight 直的
+
+`tend,tens,tent=stretch 延伸`
+tent 帐篷
+
+* group17
+
+`dam=harm 破坏，伤害 或作demn`
+damage 破坏
+
+`fract,frag=break 破坏`
+fraction 分数
+
+`rupt=break 破坏`
+interrupt 打断
+
+`struct=build 建设 或作stru(e)`
+structure 结构
+
+* group18
+
+`vict,vinc=conquer 征服`
+victory 胜利
+
+`reg=rule 统治，规则`
+regular 通常的
+
+### 表[感官动作]
+
+* group1
+
+`aud=hear 听`
+audience 听众
+
+`dic,dict=speak 说`
+predict 预言
+
+`locu,loqu=speak 说`
+colloquial 口语的
+
+`log,logue=speak,word 说，话，言辞`
+dialogue 对话
+
+`logy=study of 学科`
+biology 生物学
