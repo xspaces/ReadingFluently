@@ -610,3 +610,22 @@ dialogue 对话
 
 `logy=study of 学科`
 biology 生物学
+
+* group2
+
+`clam,claim=shout 喊`
+exclaim 惊呼
+
+`chor=sing,dance 唱，跳舞`
+chorus 合唱
+
+* group3
+
+`spect,spic=look 看`
+expect 期望
+
+`vid,vis=see 看`
+visit 拜访
+
+`tach,tact,tag,tang,tig=touch 触摸`
+contact 接触
