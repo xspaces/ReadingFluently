@@ -629,3 +629,21 @@ visit 拜访
 
 `tach,tact,tag,tang,tig=touch 触摸`
 contact 接触
+
+### 表[感觉]
+
+* group1
+
+`sens,sent=feel 感觉`
+sense 感觉，意识
+
+`pass,path,pati=feel,suffer 感受，承受`
+sympathy 同情
+
+* group2
+
+`grac,grat=pleasing,thankful 快乐，感激`
+grateful 感激的
+
+`pen,pun=pain,punish 痛苦，惩罚`
+punish 惩罚
