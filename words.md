@@ -647,3 +647,52 @@ grateful 感激的
 
 `pen,pun=pain,punish 痛苦，惩罚`
 punish 惩罚
+
+### 表[生命]
+
+* group1
+
+`vit,viv=live 活`
+vitamin 维他命
+
+`bio=life 生命`
+biology 生物学
+
+* group2
+
+`nat=born 出生 或作nai`
+native 原住民
+
+`gen=born 产生`
+gene 基因
+
+### 表[死亡]
+
+* group1
+
+`mort=death 死亡`
+mortal 凡人
+
+### 表[社会]
+
+* group1
+
+`demo=people 人们`
+epidemic 流行病的
+
+`popul,publ=people 人们`
+popular 流行的
+
+`soci=group 群体`
+society 社会
+
+* group2
+
+`civ=city 城市`
+civilization 文明
+
+`polis,polit=city,government 城市，政府`
+polite 礼貌的
+
+`dom=home,control 家，房屋，支配`
+dominate 主宰，支配
