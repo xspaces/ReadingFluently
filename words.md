@@ -696,3 +696,37 @@ polite 礼貌的
 
 `dom=home,control 家，房屋，支配`
 dominate 主宰，支配
+
+## Part three 字尾
+
+### 表[人]
+
+* -ain
+`captain 船长，队长`
+`villain 恶棍`
+
+* -aire
+`millionaire 百万富翁`
+`billionaire 亿万富翁`
+
+* -an,-ian,-ean,-ese
+`American 美国人`
+`Canadian 加拿大人`
+`European 欧洲人`
+`Chinese 中国人`
+
+* -ant,-ent
+
+`immigrant 移民`
+`servant 仆人`
+`president 总统`
+`student 学生`
+
+* -ary
+
+`adversary 对手`
+`secretary 秘书`
+
+* -ate
+`advocate 律师`
+`candidate 候选人`
