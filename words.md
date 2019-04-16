@@ -702,31 +702,89 @@ dominate 主宰，支配
 ### 表[人]
 
 * -ain
+
 `captain 船长，队长`
+
 `villain 恶棍`
 
 * -aire
+
 `millionaire 百万富翁`
+
 `billionaire 亿万富翁`
 
 * -an,-ian,-ean,-ese
+
 `American 美国人`
+
 `Canadian 加拿大人`
+
 `European 欧洲人`
+
 `Chinese 中国人`
 
 * -ant,-ent
 
 `immigrant 移民`
+
 `servant 仆人`
+
 `president 总统`
+
 `student 学生`
 
 * -ary
 
 `adversary 对手`
+
 `secretary 秘书`
 
 * -ate
+
 `advocate 律师`
+
 `candidate 候选人`
+
+* -ee 和 -er相反，表示[被~的人]
+
+`employee 员工`
+
+`employer 雇主`
+
+`trainee 练习生`
+
+`trainer 训练者`
+
+* -eer
+
+`engineer 工程师`
+
+`volunteer 志愿者`
+
+* -er,-or,-ar,-ier,-eur
+
+`teacher 教师`
+
+`doctor 医生`
+
+`scholar 学者`
+
+`premier 首相`
+
+`enterpreneur 企业家`
+
+* -ician
+
+`musician 音乐家`
+
+`physician 物理学家`
+
+* -ist
+
+`finalist 进入决赛的人`
+
+`specialist 专家`
+
+* -ite
+
+`Israelite 以色列人`
