@@ -788,3 +788,21 @@ dominate 主宰，支配
 * -ite
 
 `Israelite 以色列人`
+
+* -ive
+
+`fugitive 逃犯`
+
+`native 本地人`
+
+* -man
+
+`chairman 主席`
+
+`salesman 推销员`
+
+* -on
+
+`champion 冠军`
+
+`patron 赞助者`
