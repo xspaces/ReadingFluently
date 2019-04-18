@@ -806,3 +806,27 @@ dominate 主宰，支配
 `champion 冠军`
 
 `patron 赞助者`
+
+* -ster
+
+`gangster 流氓`
+
+`youngster 年轻人`
+
+* -y
+
+`lady 女士`
+
+`sissy 娘娘腔`
+
+### 表[阴性]
+
+* -elle
+
+`belle 美女`
+
+* -ess
+
+`actress 女演员`
+
+`lioness 母狮`
