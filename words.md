@@ -830,3 +830,27 @@ dominate 主宰，支配
 `actress 女演员`
 
 `lioness 母狮`
+
+### 表[小]
+
+* -cle
+
+`cubicle 小房间`
+
+`particle 粒子`
+
+* -(c)ule
+
+`granule 细粒`
+
+`molecule 分子`
+
+* -el,-le
+
+`model 模型`
+
+`tunnel 隧道`
+
+`pebble 小鹅卵石`
+
+`rubble 碎石`
