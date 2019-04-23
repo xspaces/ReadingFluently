@@ -854,3 +854,43 @@ dominate 主宰，支配
 `pebble 小鹅卵石`
 
 `rubble 碎石`
+
+* -en,-in
+
+`maiden 少女`
+
+`bulletin 公告`
+
+* -ette
+
+`cigarette 香烟`
+
+`diskette 磁盘`
+
+* -ie,-y
+
+`birdie 小鸟`
+
+`kitty 猫咪`
+
+`daddy 爸爸`
+
+`Tommy Tom的昵称`
+
+* -kin
+
+`lambkin 小羊`
+
+`napkin 餐巾`
+
+* -let
+
+`booklet 小册子`
+
+`leaflet 传单`
+
+* -ling
+
+`duckling 小鸭`
+
+`yearling 满一岁`
