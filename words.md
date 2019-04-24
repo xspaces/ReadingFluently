@@ -894,3 +894,35 @@ dominate 主宰，支配
 `duckling 小鸭`
 
 `yearling 满一岁`
+
+### 表 [量]
+
+* -ful
+
+`handful 满手`
+
+`mouthful 满嘴`
+
+### 表[主义，学说，态度]
+
+* -ism, -asm
+
+`communism 共产主义`
+
+`egoism 本位主义`
+
+`enthusiasm 热忱`
+
+`sarcasm 讽刺`
+
+### 表[学术，技术]
+
+* -ic(s)
+
+`logic 逻辑`
+
+`magic 魔术`
+
+`mathematics 数学`
+
+`physics 物理`
