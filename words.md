@@ -926,3 +926,37 @@ dominate 主宰，支配
 `mathematics 数学`
 
 `physics 物理`
+
+### 表[地方，场所]
+
+* -ery,-ory
+
+`bakery 面包店`
+
+`fishery 渔场`
+
+`laboratory 实验室`
+
+`conservatory 温室`
+
+* -ium,-um
+
+`aquarium 水族馆`
+
+`auditorium 礼堂`
+
+`gymnasium 体育馆`
+
+`symposium 研讨会`
+
+`forum 公开讨论`
+
+`museum 博物馆`
+
+### 表[疾病]
+
+* -ia
+
+`hysteria 歇斯底里`
+
+`pneumonia 肺炎`
