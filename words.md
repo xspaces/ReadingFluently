@@ -960,3 +960,47 @@ dominate 主宰，支配
 `hysteria 歇斯底里`
 
 `pneumonia 肺炎`
+
+### 表[集合体]
+
+* -ary,-ery
+
+`military 军人`
+
+`vocabulary 词汇`
+
+`machinery 机械`
+
+`scenery 景色`
+
+* -ry
+
+`cavalry 骑兵
+
+`laundry 洗好或待洗的衣服`
+
+### 表[抽象名词]
+
+* -ace
+
+`menace 威胁`
+
+`solace 慰藉`
+
+* -ad,-ade
+
+`Olympiad 奥林匹克运动会的举行`
+
+`decade 十年`
+
+* -age
+
+`courage 勇气`
+
+`usage 用法`
+
+* -al
+
+`approval 赞成`
+
+`refusal 拒绝`
