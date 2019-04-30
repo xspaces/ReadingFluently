@@ -1004,3 +1004,25 @@ dominate 主宰，支配
 `approval 赞成`
 
 `refusal 拒绝`
+
+* -ance,-ancy,-ence,-ency
+
+`importance 重要性`
+
+`vacancy 空缺`
+
+`innocence 无辜`
+
+`fluency 流畅`
+
+* -cy
+
+`bankruptcy 破产`
+
+`democracy 民主`
+
+* -dom
+
+`boredom 无聊`
+
+`freedom 自由`
