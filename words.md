@@ -1026,3 +1026,25 @@ dominate 主宰，支配
 `boredom 无聊`
 
 `freedom 自由`
+
+* -hood
+
+`childhood 童年`
+
+`adulthood 成年时期`
+
+* -ice,-ise
+
+`justice 正义`
+
+`prejudice 偏见`
+
+`premise 前提`
+
+`treatise 论文`
+
+* -ing
+
+`aging 老化`
+
+`blessing 祝福`
