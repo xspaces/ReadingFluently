@@ -1048,3 +1048,21 @@ dominate 主宰，支配
 `aging 老化`
 
 `blessing 祝福`
+
+* -ion
+
+`opinion 意见`
+
+`vision 视觉`
+
+* -itude
+
+`attitude 态度`
+
+`gratitude 感激`
+
+* -ity
+
+`simplicity 简单`
+
+`stupidity 愚笨`
