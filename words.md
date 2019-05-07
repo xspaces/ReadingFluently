@@ -1066,3 +1066,21 @@ dominate 主宰，支配
 `simplicity 简单`
 
 `stupidity 愚笨`
+
+* -ment
+
+`movement 动作`
+
+`treatment 待遇`
+
+* -mony
+
+`ceremony 仪式`
+
+`testimony 证词`
+
+* -ness
+
+`happiness 幸福`
+
+`likeness 相似`
