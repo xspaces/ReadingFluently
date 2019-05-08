@@ -1084,3 +1084,21 @@ dominate 主宰，支配
 `happiness 幸福`
 
 `likeness 相似`
+
+* -or
+
+`humor 幽默感`
+
+`odor 气味`
+
+* -ry
+
+`artistry 艺术性`
+
+`slavery 奴隶制度`
+
+* -ship
+
+`friendship 友谊`
+
+`relationship 关系`
