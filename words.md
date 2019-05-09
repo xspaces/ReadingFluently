@@ -1102,3 +1102,23 @@ dominate 主宰，支配
 `friendship 友谊`
 
 `relationship 关系`
+
+* -th
+
+`breadth 宽度`
+
+`width 宽度`
+
+`warmth 温暖`
+
+* -ty
+
+`cruelty 残酷`
+
+`poverty 贫穷`
+
+* -ure
+
+`departure 离开`
+
+`pleasure 愉悦`
