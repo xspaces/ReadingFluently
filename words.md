@@ -1122,3 +1122,36 @@ dominate 主宰，支配
 `departure 离开`
 
 `pleasure 愉悦`
+
+* -y
+
+`honesty 诚实`
+
+`jealousy 嫉妒`
+
+### 形容词后缀
+
+
+### 表[能够]
+
+* -able,-ible
+
+`acceptable 可接受的`
+
+`moveable 可移动的`
+
+`edible 可食的`
+
+`credible 可信的`
+
+### 表[...的]
+
+* -an,-ian,-ean,-ese
+
+`American 美国人的`
+
+`Canadian 加拿大的`
+
+`European 欧洲的`
+
+`Chinese  中国人的`
